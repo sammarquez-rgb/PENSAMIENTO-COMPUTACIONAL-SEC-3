@@ -19,4 +19,6 @@ Ejercicios y sketches hechos en clase
 
  ![1984 18_suprematismo](https://github.com/user-attachments/assets/3d48d8e2-acb9-4553-bb4d-0fb533bd263e)
  
+ RESULTADO EN PS5.JS : 
 
+ https://editor.p5js.org/sam.marquez/full/av8CkpV-f
