@@ -20,6 +20,3 @@ Ejercicios y sketches hechos en clase
  ![1984 18_suprematismo](https://github.com/user-attachments/assets/3d48d8e2-acb9-4553-bb4d-0fb533bd263e)
  
 
- CAPTURA DE MESA DE TRABAJO EN ILLUSTRATOR PREVIO A P5.JS :
-
-<img width="1848" height="903" alt="Captura de pantalla 2026-04-08 205819" src="https://github.com/user-attachments/assets/1a296c99-7127-4e91-8214-ca6fa4479131" />
