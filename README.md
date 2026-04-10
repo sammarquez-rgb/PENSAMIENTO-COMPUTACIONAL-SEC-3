@@ -21,4 +21,4 @@ Ejercicios y sketches hechos en clase
  
  RESULTADO EN PS5.JS : 
 
- ![RESULTADO](https://editor.p5js.org/sam.marquez/full/av8CkpV-f)
+ ![RESULTADO](<img width="798" height="799" alt="Captura de pantalla 2026-04-10 a la(s) 10 07 47 a m" src="https://github.com/user-attachments/assets/c8931237-bee3-4a5c-823b-aa0d06e4ecdf" />)
