@@ -18,7 +18,14 @@ Ejercicios y sketches hechos en clase
  OBRA DE REFERENCIA :
 
  ![1984 18_suprematismo](https://github.com/user-attachments/assets/3d48d8e2-acb9-4553-bb4d-0fb533bd263e)
+
+
+
+
+
+
+
  
  RESULTADO EN PS5.JS : 
 
- ![RESULTADO](<img width="798" height="799" alt="Captura de pantalla 2026-04-10 a la(s) 10 07 47 a m" src="https://github.com/user-attachments/assets/c8931237-bee3-4a5c-823b-aa0d06e4ecdf" />)
+ ![RESULTADO](https://editor.p5js.org/sam.marquez/full/av8CkpV-f)
