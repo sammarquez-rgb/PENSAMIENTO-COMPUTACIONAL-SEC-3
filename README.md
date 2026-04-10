@@ -21,4 +21,4 @@ Ejercicios y sketches hechos en clase
  
  RESULTADO EN PS5.JS : 
 
- !(https://editor.p5js.org/sam.marquez/full/av8CkpV-f)
+ ![RESULTADO](https://editor.p5js.org/sam.marquez/full/av8CkpV-f)
